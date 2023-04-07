@@ -1,0 +1,29 @@
+body {
+  background-color: Snow;
+}
+
+h1 {
+  color: black;
+}
+
+p {
+  color: DimGrey;
+}
+/* unvisited link */
+a:link {
+  color: DarkBlue;
+}
+
+/* visited link */
+a:visited {
+  color: DarkSlateBlue;
+}
+
+/* mouse over link */
+a:hover {
+  color: DarkOrchid;
+}
+
+/* selected link */
+a:active {
+  color: DarkOrchid;}
